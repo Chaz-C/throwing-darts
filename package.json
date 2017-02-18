@@ -1,0 +1,26 @@
+{
+  "name": "throwing-darts",
+  "version": "1.0.0",
+  "description": "You've just recently been hired to calculate scores for a Dart Board game",
+  "main": "darts.js",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chaz-C/throwing-darts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chaz-C/throwing-darts/issues"
+  },
+  "homepage": "https://github.com/Chaz-C/throwing-darts#readme"
+}
